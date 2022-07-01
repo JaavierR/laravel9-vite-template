@@ -1,0 +1,19 @@
+{
+    "extends": [
+        "@antfu",
+        "@vue/eslint-config-prettier"
+    ],
+    "ignorePatterns": [
+        "/app",
+        "/bootstrap",
+        "/config",
+        "/database",
+        "/lang",
+        "/node_modules",
+        "/public",
+        "/routes",
+        "/storage",
+        "/tests",
+        "/vendor"
+    ]
+}

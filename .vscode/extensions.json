@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "lokalise.i18n-ally",
+        "bradlc.vscode-tailwindcss",
+        "antfu.vite",
+        "vue.volar",
+        "vue.vscode-typescript-vue-plugin",
+        "EditorConfig.EditorConfig"
+    ]
+}
